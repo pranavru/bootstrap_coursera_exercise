@@ -3,5 +3,5 @@ npm start
 git status
 git add .
 git status
-git commmit -m "NPM Scripts Part 1"
+git commit -m "NPM Scripts Part 2"
 git push -u origin master
